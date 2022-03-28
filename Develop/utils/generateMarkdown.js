@@ -8,7 +8,7 @@ function generateMarkdown(data) {
 
   ## Description
 
-  ${data.Description}
+  ${data.description}
 
   ## Table of Contents
 
@@ -21,7 +21,7 @@ function generateMarkdown(data) {
   
   ## Installation
 
-  The following necessary dependencies must be installed to run the application
+  The following necessary dependencies must be installed to run the application: ${data.installation}
 
   ## Usage
 

@@ -1,11 +1,11 @@
 
-  ## README-generator
+  ## 
 
-  http://github.com/undefined/README-generator
+  http://github.com/undefined/
 
   ## Description
 
-  undefined
+  
 
   ## Table of Contents
 
@@ -18,15 +18,15 @@
   
   ## Installation
 
-  The following necessary dependencies must be installed to run the application
+  The following necessary dependencies must be installed to run the application: 
 
   ## Usage
 
-  In order to use this app, in the command line
+  In order to use this app, 
 
   ## License
 
-  This project is licensed under the MIT license.
+  This project is licensed under the APACHE 2.O license.
 
   ## Contributors
 
@@ -34,9 +34,9 @@
 
   ## Tests
 
-  The following is needed to run the test: node index
+  The following is needed to run the test: 
 
   ## Questions
 
-  If you have any questions about the repo contact me at http://github.com/bems2588 or email me bems2588@gmail.com
+  If you have any questions about the repo contact me at http://github.com/ or email me 
 
