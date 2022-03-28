@@ -2,28 +2,45 @@
 
 function generateMarkdown(data) {
   return `
-  # ${data.title}
+  ## ${data.title}
+
   http://github.com/${data.userName}/${data.title}
-  #Description
+
+  ## Description
+
   ${data.Description}
-  #Table of Contents
+  
+  ## Table of Contents
+
   * [Installation](#installation)
   * [Usage](#usage)
   * [License](#license)
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
-  #Installation
+  
+  ## Installation
+
   The following necessary dependencies must be installed to run the application
-  #Usage
+
+  ## Usage
+
   In order to use this app, ${data.usage}
-  #License
+
+  ## License
+
   This project is licensed under the ${data.license} license.
-  #Contributors
+
+  ## Contributors
+
   Contributors: ${data.contributing}
-  #Tests
+
+  ## Tests
+
   The following is needed to run the test: ${data.tests}
-  #Questions
+
+  ## Questions
+
   If you have any questions about the repo, contact ${data.Github} or ${data.email}
 
 `;
