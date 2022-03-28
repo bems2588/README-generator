@@ -26,7 +26,7 @@ https://user-images.githubusercontent.com/90357022/160487302-eca68724-575d-4790-
 
   ## Usage
 
-  In order to use this app, in the command line
+ in the command line
 
   ## License
 

@@ -25,7 +25,7 @@ function generateMarkdown(data) {
 
   ## Usage
 
-  In order to use this app, ${data.usage}
+  ${data.usage}
 
   ## License
 
