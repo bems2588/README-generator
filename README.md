@@ -1,7 +1,7 @@
 
-  ## README generator
+  ## README-generator
 
-  http://github.com/undefined/README generator
+  http://github.com/undefined/README-generator
 
   ## Description
 
@@ -22,11 +22,11 @@
 
   ## Usage
 
-  In order to use this app, bruno
+  In order to use this app, In the command line
 
   ## License
 
-  This project is licensed under the APACHE 2.O license.
+  This project is licensed under the MIT license.
 
   ## Contributors
 
@@ -34,9 +34,9 @@
 
   ## Tests
 
-  The following is needed to run the test: bruno
+  The following is needed to run the test: node index
 
   ## Questions
 
-  If you have any questions about the repo, contact bruno or bruno
+  If you have any questions about the repo, contact bems2588 or bems2588@gmail.com
 
