@@ -1,7 +1,7 @@
 
-  ## dnvlkdn
+  ## 
 
-  http://github.com/undefined/dnvlkdn
+  http://github.com/undefined/
 
   ## Description
 
@@ -22,11 +22,11 @@
 
   ## Usage
 
-  In order to use this app, sdfjksdbfjsd
+  In order to use this app, 
 
   ## License
 
-  This project is licensed under the BSD 3 license.
+  This project is licensed under the APACHE 2.O license.
 
   ## Contributors
 
@@ -34,9 +34,9 @@
 
   ## Tests
 
-  The following is needed to run the test: bfjd
+  The following is needed to run the test: 
 
   ## Questions
 
-  If you have any questions about the repo contact at http://github.com/dbjfd or email me dbfd
+  If you have any questions about the repo contact me at http://github.com/ or email me 
 
