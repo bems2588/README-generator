@@ -9,7 +9,7 @@ function generateMarkdown(data) {
   ## Description
 
   ${data.Description}
-  
+
   ## Table of Contents
 
   * [Installation](#installation)
@@ -41,7 +41,7 @@ function generateMarkdown(data) {
 
   ## Questions
 
-  If you have any questions about the repo, contact ${data.Github} or ${data.email}
+  If you have any questions about the repo contact me at http://github.com/${data.Github} or email me ${data.email}
 
 `;
 }

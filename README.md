@@ -1,12 +1,12 @@
 
-  ## README-generator
+  ## dnvlkdn
 
-  http://github.com/undefined/README-generator
+  http://github.com/undefined/dnvlkdn
 
   ## Description
 
   undefined
-  
+
   ## Table of Contents
 
   * [Installation](#installation)
@@ -22,11 +22,11 @@
 
   ## Usage
 
-  In order to use this app, In the command line
+  In order to use this app, sdfjksdbfjsd
 
   ## License
 
-  This project is licensed under the MIT license.
+  This project is licensed under the BSD 3 license.
 
   ## Contributors
 
@@ -34,9 +34,9 @@
 
   ## Tests
 
-  The following is needed to run the test: node index
+  The following is needed to run the test: bfjd
 
   ## Questions
 
-  If you have any questions about the repo, contact bems2588 or bems2588@gmail.com
+  If you have any questions about the repo contact at http://github.com/dbjfd or email me dbfd
 
