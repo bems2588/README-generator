@@ -33,7 +33,7 @@ function generateMarkdown(data) {
 
   ## Contributors
 
-  Contributors: ${data.contributing}
+  Contributors: ${data.contribute}
 
   ## Tests
 
